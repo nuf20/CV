@@ -38,7 +38,7 @@
                <p>
                 <span style='font-size:20px;'>&#127968;</span> No258/C, 9th Lane, Bazar
                 Street,Sammanthurai-06 <br /><span style='font-size:20px;'>&#128222;</span>  077-9564015 , 067-2260080<br />
-                <span style='font-size:20px;'>&#128231;</span> <a href="#" style= color:black>fathi.nuf001@gmail.com</a>
+                <span style='font-size:20px;'>&#128231;</span> <a href="http://fathi.nuf001@gmail.com" style= color:black>fathi.nuf001@gmail.com</a>
                </p>
               </td>
 
