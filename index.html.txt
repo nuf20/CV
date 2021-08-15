@@ -87,7 +87,7 @@
       <li>Fluent in English & Tamil</li>
     </ul>
    </p>
-<p><a href="C:\Users\Mohamed\Desktop\web development\nufla personal website\contact.html" target="_blank">Contact me!!!</a></p>
+<p><a href="contact.html" target="_blank">Contact me!!!</a></p>
 
 <hr>
 
